@@ -14,3 +14,4 @@
   - [Loop](https://github.com/Mengsreang-Chhoeung/Java-Tutorial/tree/master/src/main/java/com/mengsreang/java/tutorial/loop)
   - [Break and Continue](https://github.com/Mengsreang-Chhoeung/Java-Tutorial/tree/master/src/main/java/com/mengsreang/java/tutorial/break_continue)
   - [Array](https://github.com/Mengsreang-Chhoeung/Java-Tutorial/tree/master/src/main/java/com/mengsreang/java/tutorial/array)
+  - [Method](https://github.com/Mengsreang-Chhoeung/Java-Tutorial/tree/master/src/main/java/com/mengsreang/java/tutorial/method)
