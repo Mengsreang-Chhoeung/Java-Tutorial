@@ -1,4 +1,4 @@
-package com.mengsreang.java.tutorial.typeCasting;
+package com.mengsreang.java.tutorial.type_casting;
 
 public class AppOne {
     public static void main(String[] args) {

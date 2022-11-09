@@ -1,9 +1,9 @@
-package com.mengsreang.java.tutorial.dataType;
+package com.mengsreang.java.tutorial.data_type;
 
-public class AppThree {
+public class AppTwo {
     public static void main(String[] args) {
-        int a = 10000;
-        int b = 50000;
+        short a = 1000;
+        short b = 5000;
         System.out.println("A= " + a);
         System.out.print("\n");  // New Line
         System.out.println("B= " + b);

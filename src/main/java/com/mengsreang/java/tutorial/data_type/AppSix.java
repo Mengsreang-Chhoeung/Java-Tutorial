@@ -1,4 +1,4 @@
-package com.mengsreang.java.tutorial.dataType;
+package com.mengsreang.java.tutorial.data_type;
 
 public class AppSix {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.mengsreang.java.tutorial.userInput;
+package com.mengsreang.java.tutorial.user_input;
 import java.util.Scanner;
 
 public class AppOne {
